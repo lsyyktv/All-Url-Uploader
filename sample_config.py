@@ -47,4 +47,4 @@ class Config(object):
     BOT_USERNAME = "lsmusic_bot"
 
     # auth users
-    AUTH_USERS = [OWNER_ID, 1260388222]
+    AUTH_USERS = [OWNER_ID, 6229585631]
